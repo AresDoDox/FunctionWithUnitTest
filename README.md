@@ -1,2 +1,2 @@
-# FunctionWithUnitTest
+# Function With Unit Test (Jest)
 Sử dụng Jest để viết các hàm(Functions) với Unit Test
